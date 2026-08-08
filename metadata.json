@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Boon Huat Hardware - AI Payment Management Assistant correct one",
+  "description": "Accounts Payable Payment Management Assistant for Boon Huat Hardware \u0026 Supplies Pte Ltd. Features payment prioritization, duplicate checking, bank account verification, recommendation generation, and Madam Lim\u0027s approval workflow for updating the Master Ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
